@@ -33,9 +33,9 @@ export default function About() {
           <div className="flex-shrink-0">
             <div className="w-32 h-32 md:w-44 md:h-44 rounded-full overflow-hidden ring-1 ring-white/10">
               <img
-                src="/about/portrait.jpg"
+                src="/assets/portrait/luca_portrait.png"
                 alt="Luca Amore"
-                className="w-full h-full object-cover grayscale"
+                className="w-full h-full object-cover object-center"
               />
             </div>
           </div>

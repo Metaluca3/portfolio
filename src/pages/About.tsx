@@ -54,8 +54,9 @@ export default function About() {
             <p className="text-white/55 text-sm md:text-base leading-relaxed font-light max-w-xl">
               Visual designer et infographiste 3D spécialisé dans la création d&apos;images
               premium, la visualisation produit, l&apos;architecture intérieure et les univers
-              de marque. Mon travail combine sens du détail, composition, lumière, matériaux
-              et rendu photoréaliste.
+              de marque. Mon travail consiste à créer des visuels réalistes, en accordant une
+              attention particulière à la lumière, aux matériaux, à la mise en scène et à la
+              justesse des détails.
             </p>
           </div>
         </motion.div>
